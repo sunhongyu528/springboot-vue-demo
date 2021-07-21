@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d222169"],{ccb5:function(a,c,n){"use strict";n.r(c);var t=n("7a23"),e=Object(t["gb"])("data-v-548341fa"),d=e((function(a,c,n,e,d,i){return Object(t["D"])(),Object(t["i"])("div",null," BlackList 呼叫记录 ")})),i={name:"BlackList1"};i.render=d,i.__scopeId="data-v-548341fa";c["default"]=i}}]);
+//# sourceMappingURL=chunk-2d222169.fe26f844.js.map
